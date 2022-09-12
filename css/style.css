@@ -1,0 +1,93 @@
+div {
+   width: 500px;
+   margin: 0 0 0 20px;
+}
+h1 {
+   margin: 20px 0px;
+   font-family: "Lato";
+   font-weight: 900;
+   font-size: 28px;
+   color: rgba(255, 166, 0, 0.922);
+}
+
+span {
+   font-family: "Larsseit";
+   font-weight: 700;
+   font-size: 22px;
+   color: dimgray;
+}
+p {
+   font-family: "Roboto";
+   font-weight: 400;
+   font-size: 20px;
+   margin: 15px 0 0 0;
+   color: rgba(17, 0, 255, 0.922);
+}
+img {
+   margin: 15px 0;
+}
+.pie {
+   margin: 0;
+}
+h2 {
+   margin: 15px 0px;
+   font-family: "Lato";
+   font-weight: 700;
+   font-size: 24px;
+   color: rgba(255, 8, 0, 0.922);
+}
+
+h3 {
+   margin: 10px 0px;
+   font-family: "Lato";
+   font-weight: 700;
+   font-size: 20px;
+   color: rgba(38, 139, 157, 0.664);
+}
+
+li {
+   padding: 2px 0;
+   font-family: "Roboto";
+   font-weight: 700;
+   font-size: 16px;
+   list-style: circle;
+   color: rgba(43, 255, 0, 0.922);
+}
+
+ul {
+   list-style: circle;
+   margin: 0 0 0 20px;
+}
+
+main div {
+   margin: 20px 0 0 20px;
+}
+.sourse p {
+   margin: 0px 0px 10px 20px;
+   font-family: "Lato";
+   font-weight: 700;
+   font-size: 16px;
+   color: rgba(255, 0, 140, 0.922);
+}
+#bold {
+   font-family: "Lato";
+   font-weight: 900;
+   font-size: 22px;
+   color: rgba(97, 7, 104, 0.922);
+}
+
+.russian .putan {
+   font-family: "Roboto";
+   font-weight: 500;
+   font-size: 18px;
+   color: rgba(22, 197, 25, 0.995);
+}
+.two.classes {
+   font-size: 14px;
+   color: rgba(143, 107, 41, 0.922);
+}
+
+p.header {
+   color: rgb(19, 138, 138);
+   font-size: 16px;
+}
